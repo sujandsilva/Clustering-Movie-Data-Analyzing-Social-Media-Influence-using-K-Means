@@ -1,1 +1,2 @@
 # Clustering-Movie-Data-Analyzing-Social-Media-Influence-using-K-Means
+In this project, I have utilized K-Means Clustering to cluster 5000 rows of movie data into 3 groups based on features like Facebook likes.   I have preprocessed and cleaned the data using Pandas, handling missing values and preparing it for clustering. I have also visualized clusters with Seaborn and Matplotlib, highlighting data distribution and group characteristics.             
